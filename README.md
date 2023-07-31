@@ -42,6 +42,9 @@ The notebook uses GBP/USA historical data from Investing.com, covering the date 
 
 The notebook performs experiments with different alpha thresholds and sliding window sizes to create the models. The alpha threshold is used to determine the daily price direction (Buy, Sell, Hold), and the sliding window size is used for sequence generation in the models. The experiments involve two models: CNN+GRU and CNN+GRU with self-attention.
 
+![newplot (1)](https://github.com/ozzmanmuhammad/Forecasting-Daily-Price-Direction/assets/93766242/f3138513-fa26-4459-80cd-62578e928afc)
+
+
 ## Note
 
 Please note that this is an automatically generated copy of the original notebook, and any modifications or updates made to the original notebook after the generation date are not reflected here. To access the most up-to-date version of the notebook, refer to the link provided for the original notebook.
